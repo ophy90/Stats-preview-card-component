@@ -2,10 +2,10 @@ import React from 'react';
 
 import './card.styles.scss'
 
-const Container = () => (
+const Card = () => (
    <div class={'card'}>
        <h1>Hello World</h1>
    </div>
 )
 
-export default Container;
+export default Card;
