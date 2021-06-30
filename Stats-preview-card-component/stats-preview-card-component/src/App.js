@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import Container from './components/container/container.component';
+import Container from './components/card/card.component';
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <Container/>
     </div>
-  )
+  );
 }
 
 export default App;
