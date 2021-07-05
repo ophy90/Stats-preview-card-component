@@ -6,7 +6,7 @@ const Card = () => (
        <div className={'card'}>
            <div className={'text'}>
                <div className={'paragraphs'}>
-                   <h1>Get <span>insights</span> that help your business grow.</h1>
+                   <h1 className={'title'}>Get <span>insights</span> that help your business grow.</h1>
                    <p>Discover the benefits of data analytics and make better decisions regarding revenue, customer experience, and overall efficiency.</p>
                </div>
                <div className={'rows'}>
