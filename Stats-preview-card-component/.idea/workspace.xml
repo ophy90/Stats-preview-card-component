@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04757bf4-93f5-4b2d-aec5-b7b23d881693" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/stats-preview-card-component/src/components/card/card.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/stats-preview-card-component/src/components/card/card.styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stats-preview-card-component/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/stats-preview-card-component/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/.idea/stats-preview-card-component.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/src/assets/desktop-design.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/src/assets/desktop-preview.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/src/assets/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/src/assets/image-header-desktop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/src/components/container/container.component.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/src/components/container/container.styles.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/style-guide.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats-preview-card-component/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +15,7 @@
         <option value="Sass File" />
         <option value="JavaScript File" />
         <option value="SCSS File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -61,11 +29,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -95,7 +64,8 @@
       <option name="presentableId" value="Default" />
       <updated>1625041638176</updated>
       <workItem from="1625041639334" duration="382000" />
-      <workItem from="1625042116291" duration="3040000" />
+      <workItem from="1625042116291" duration="20734000" />
+      <workItem from="1625475327063" duration="4360000" />
     </task>
     <servers />
   </component>
@@ -112,5 +82,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
